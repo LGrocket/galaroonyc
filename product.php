@@ -72,7 +72,7 @@
 	  <li>Made in USA</li>
 	</ul>
 	<aside>
-		<p><sup>*</sup>GalaRoo NYC is currently developing pocketed seat cushion slipcovers for other popular special event chair models. Stay tuned or contact us for details.</p>
+		<p class='fine-print'><sup>*</sup>GalaRoo NYC is currently developing pocketed seat cushion slipcovers for other popular special event chair models. Stay tuned or contact us for details.</p>
 	</aside>
 </div>
 </div>

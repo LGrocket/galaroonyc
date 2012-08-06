@@ -179,6 +179,9 @@ body.product ul.thumbs {
 body.product div#slideshow {
 	display: inline-block;
 }
+body.product p.fine-print {
+	font-size: small;
+}
 html.no-js div.gallery {
 	display: inline-block;
 }
