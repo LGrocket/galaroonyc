@@ -286,6 +286,9 @@ body.contact div.main img {
 		width: 100%;
 		padding: 0;
 	}
+	body.product div#slideshow img {
+		max-width: 400px;
+	}
 }
 @media only screen and (max-width: 1130px) {
 	body.about div.columns {
@@ -298,6 +301,11 @@ body.contact div.main img {
 	}
 	body.product div#slideshow img {
 		max-width: 250px;
+	}
+}
+@media only screen and (max-width: 840px) {
+	body.product div#slideshow img {
+		max-width: 200px;
 	}
 }
 @media only screen and (max-width: 750px) {
@@ -314,7 +322,7 @@ body.contact div.main img {
 		margin: 0 auto;
 	}
 	div.nav li.logo {
-		margin: -1.8em 0 0 -1em;
+		margin: -1.3em 0 0 -1em;
 	}
 	body.product div.list {
 		float: none;
