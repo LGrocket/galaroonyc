@@ -61,7 +61,7 @@
 <div class="list">
 	<h3>Designed expressly for use with Chiavari chairs<sup>*</sup>:</h3>
 	<ul>
-	  <li>Cushion dimensions; 15 &frac34;" x 16" x 2"</li>
+	  <li>Cushion dimensions: 15 &frac34;" x 16" x 2"</li>
 	  <li>Pocket dimension: 16" x 8" deep</li>
 	  <li>Inverted box pleat and piping details</li>
 	  <li>High quality, upholstery-grade bengaline silk fabric</li>
@@ -106,6 +106,7 @@
 				loadingContainerSel:       '#loading',
 		});
 	});
+	$('div.nav li.product').addClass("active");
 </script>
 </footer>
 </body>

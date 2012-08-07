@@ -32,11 +32,3 @@ Call jQuery.retina all all images
 (function() {
 	jQuery('img').retina();
 })();
-
-//Add active class to nav-elem that user is visting.
-//Doesn't work for index/home. Done manually in index.html
-$(function(){
-	var path = location.pathname.substring(1);
-	if ( path )
-		$('div.nav a[href$="' + path + '"]').addClass('active');
-})

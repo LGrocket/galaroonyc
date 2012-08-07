@@ -16,7 +16,7 @@
 		<p>
 			<a href="mailto:info@galaroonyc.com">info@galaroonyc.com</a>
 			<br />
-			222-772-2572
+			212-772-2573
 		</p>
 		
 		<h3>Praise &amp; "Appaws"</h3>
@@ -28,7 +28,9 @@
 	include_once "includes/footer.php";
 ?>
 </footer>
-
+	<script>
+	$('div.nav li.contact').addClass("active");
+	</script>
 
 </body>
 </html>

@@ -113,7 +113,7 @@ div.nav li a {
 div.nav li a:hover {
 	color: #d71255;
 }
-div.nav a.active {
+div.nav li.active {
 	border: 1px solid #d71255;
 }
 div.nav li.logo a {
@@ -181,6 +181,8 @@ body.product div#slideshow {
 }
 body.product p.fine-print {
 	font-size: small;
+	text-indent: -.3em;
+	padding-left: .3em;
 }
 html.no-js div.gallery {
 	display: inline-block;
