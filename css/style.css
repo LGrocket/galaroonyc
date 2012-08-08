@@ -298,7 +298,7 @@ body.contact div.main img {
 		column-count: 0;
 	}
 	div.nav li {
-		padding: 0;
+		margin: 0;
 	}
 	body.product div#slideshow img {
 		max-width: 250px;
@@ -354,6 +354,7 @@ body.contact div.main img {
 		background-image: url(/img/logo_sprite@2x.png);
 		background-size: 224px;
 	}
+}
 /* =============================================================================
    Non-Semantic Helper Classes
    ========================================================================== */
