@@ -14,6 +14,11 @@
 		</div>
 		<div id="thumbs">
 			<ul class="thumbs noscript">
+			<li>
+				<a class="thumb" href="img/gallery/full/Chair11.png" title="Chair11">
+					<img src="img/gallery/thumbs/Chair11_thumb.png" alt="Chair11" />
+				</a>
+			</li>
 			  <li>
 					<a class="thumb" href="img/gallery/full/Chair02.png" title="Chair02">
 						 <img src="img/gallery/thumbs/Chair02_thumb.png" alt="Chair02" />
@@ -47,11 +52,6 @@
 			<li>
 				<a class="thumb" href="img/gallery/full/Chair10.png" title="Chair10">
 					<img src="img/gallery/thumbs/Chair10_thumb.png" alt="Chair10" />
-				</a>
-			</li>
-			<li>
-				<a class="thumb" href="img/gallery/full/Chair11.png" title="Chair11">
-					<img src="img/gallery/thumbs/Chair11_thumb.png" alt="Chair11" />
 				</a>
 			</li>
 			</ul>
