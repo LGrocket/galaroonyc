@@ -9,7 +9,7 @@
 </header>
 <div class="main">
 	<div class="dog">
-		<img src="img/Chair12.png" title="Sebastion" alt="Sebations" />
+		<img src="img/Chair12.png" title="Sebastian" alt="Sebastian" />
 	</div>
 	<div class="contact-info">
 		<h3>Inquiries</h3>
@@ -20,7 +20,7 @@
 		</p>
 		
 		<h3>Praise &amp; "Appaws"</h3>
-		<p><a href="mailto:sebatian@galaroonyc.com">sebastian@galaroonyc.com</a></p>
+		<p><a href="mailto:sebastian@galaroonyc.com">sebastian@galaroonyc.com</a></p>
 	</div>
 </div>
 <footer>
