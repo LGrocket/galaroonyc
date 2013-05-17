@@ -28,7 +28,7 @@
 	}
 })( jQuery );
 
-Call jQuery.retina all all images
+//Call jQuery.retina all all images
 (function() {
 	jQuery('img').retina();
 })();
